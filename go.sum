@@ -4,6 +4,7 @@ github.com/CanobbioE/grpc-go-tutorial v0.0.0-20200204145010-cf5ad6cc2dfb h1:2WLZ
 github.com/DATA-DOG/go-sqlmock v1.4.1 h1:ThlnYciV1iM/V0OSF/dtkqWb6xo5qITT1TJBG1MRDJM=
 github.com/DATA-DOG/go-sqlmock v1.4.1/go.mod h1:f/Ixk793poVmq4qj/V1dPUg2JEAKC73Q5eFN3EC/SaM=
 github.com/amsokol/go-grpc-http-rest-microservice-tutorial v0.0.0-20180918193307-017ec2aae0ec h1:e56FA3qgFWWB3nwAy26MFCVCFDb4+7E/B8MDHoRSr1g=
+github.com/canobbioe/grpc-go-tutorial v0.0.0-20200204150536-0c8460ab4150 h1:jDHIFg5QU917/+/6+0Veal79XGu9JaeZqM8xBSytG30=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/envoyproxy/go-control-plane v0.9.1-0.20191026205805-5f8ba28d4473/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
