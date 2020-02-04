@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/canobbioe/grpc-go-tutorial/pkg/cmd"
+	"github.com/CanobbioE/grpc-go-tutorial/pkg/cmd"
 )
 
 func main() {
